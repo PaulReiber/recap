@@ -1,5 +1,8 @@
-Recap:
+Install:
 
+git clone https://github.com/rackerlabs/recap.git && cd recap && ./recap-installer
+
+About Recap:
 #
 #   Package name:   recap
 #   Author:         Jacob Walcik
