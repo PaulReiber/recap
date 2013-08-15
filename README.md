@@ -2,6 +2,11 @@ Install:
 
 git clone https://github.com/rackerlabs/recap.git && cd recap && ./recap-installer
 
+Or, for my version (currently identical):
+
+git clone https://github.com/paulreiber/recap.git && cd recap && ./recap-installer
+
+
 About Recap:
 #
 #   Package name:   recap
